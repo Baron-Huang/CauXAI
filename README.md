@@ -1,4 +1,4 @@
-# An Instance-causality Mamba Clustering with Cluster Marginal-probability Contrast for Spatial Causality-driven SCC Grading
+# An Instance-causality Mamba Clustering with Cluster Marginal-probability Contrast for Explainably Learning Tumor Spatial-causality
 ## 🤹 Authors [*Corresponding author]
 - Pan Huang, _Member_, _IEEE_, Yifang Ping*, and Jing Qin*, _Senior Member_, _IEEE_
 
