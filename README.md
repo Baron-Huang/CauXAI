@@ -1,4 +1,4 @@
-# An Instance-causality Mamba Clustering with Cluster Marginal-probability Contrast for Explainably Learning SCC Spatial-causality
+# An Instance-causality Mamba Clustering with Cluster Marginal-probability Contrast for Actively Explaining Tumor Spatial-causality
 ## 🤹 Authors [*Corresponding author]
 - Pan Huang, Chentao Li*, and Jing Qin*
 
