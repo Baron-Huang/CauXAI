@@ -3,7 +3,7 @@
 - Pan Huang, Chentao Li*, and Jing Qin*
 
 ## :fire: News
-- [2026/05/20] Our manuscript was submitted to _Nature Communications_ (IF 15.5).
+- [2026/06/20] Our manuscript was submitted to _Nature Medicine_ (IF 50.0).
 
 
 
