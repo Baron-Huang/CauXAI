@@ -1,4 +1,4 @@
-# A Weakly-supervised Network with Causal Logic Subtrees-based Interactive Explanation for Squamous Cell Carcinoma Clinical Grading
+# Causally Interaction XAI Constructs A Next-generation Biomarker System for Squamous Differentiation Diagnosis
 ## 🤹 Authors [*Corresponding author]
 - Pan Huang, Chentao Li*, and Jing Qin*
 
@@ -9,7 +9,7 @@
 
 ## :rocket: Pipeline
 
-Here's an overview of our **Weakly-supervised Network with Causal Logic Subtrees-based Interactive Explanation (CauTree)** method:
+Here's an overview of our **Causally Interaction XAI Constructs A Next-generation Biomarker System (CauXAI)** method:
 
 ![Figure 1](./images/xxx.png)
 
