@@ -1,4 +1,4 @@
-# Causally Interaction XAI Constructs A Next-generation Biomarker System for Squamous Differentiation Diagnosis
+# Causally Interaction XAI Constructs Next-generation Biomarker System for Squamous Differentiation Diagnosis
 ## 🤹 Authors [*Corresponding author]
 - Pan Huang, Chentao Li*, and Jing Qin*
 
