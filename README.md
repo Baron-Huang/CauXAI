@@ -1,4 +1,4 @@
-# Globally Generalizable Causal-interaction XAI Constructs Next-generation Continuous Score System for Squamous Differentiation
+# Globally Generalizable Causal-interaction Multimodal Large Language Model Constructs Next-generation Continuous Score System for Squamous Differentiation
 ## 🤹 Authors [*Corresponding author]
 - Pan Huang, Chentao Li*, and Jing Qin*
 
@@ -9,7 +9,7 @@
 
 ## :rocket: Pipeline
 
-Here's an overview of our **Globally Generalizable Causal-interaction XAI Constructs Next-generation Continuous Score System (CauXAI)** method:
+Here's an overview of our **Globally Generalizable Causal-interaction Multimodal Large Language Model Constructs Next-generation Continuous Score System (CaiMM)** method:
 
 ![Figure 1](./images/xxx.png)
 
